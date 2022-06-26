@@ -1,0 +1,15 @@
+site_name: "SCP: town Database"
+theme:
+    name: material
+    hljs_style: VS 2015
+# markdown_extensions:
+    # - del_ins
+site_description: "This is the database for the SCP: town roleplay server. Here, you can view information about the different SCPs and their corresponding sites on the server."
+site_author: "YourAverageLuaCoder"
+nav:
+    - "scp-008.md"
+    - "scp-035.md"
+    - "scp-049.md"
+    - "scp-096.md"
+    - "scp-173.md"
+    - "scp-6914.md"
