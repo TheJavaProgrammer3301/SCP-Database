@@ -1,5 +1,9 @@
-- [SCP-096](/scp-096)
-- [SCP-6194](/scp-6194)
+
+## New entries
+- [SCP-6914](/scp-6914)
+## Existing entries
 - [SCP-008](/scp-008)
+- [SCP-035](/scp-035)
 - [SCP-049](/scp-049)
+- [SCP-096](/scp-096)
 - [SCP-173](/scp-173)
